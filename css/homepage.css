@@ -1,0 +1,226 @@
+		hr{
+			width: 999px;
+		}
+		table{
+			background-color: #ccc;
+		 	-webkit-box-shadow: 0 10px 6px -6px #777;
+       		-moz-box-shadow: 0 10px 6px -6px #777;
+            box-shadow: 10px 10px 6px -6px #777;
+
+            
+		}
+		th{
+			height: 38px;
+		}
+		body{
+			background-image: url("https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcQ636j2EJ5oFObx15Yn8ALqF60UJYBIff2kNurZokcLWPuoHmVQ");
+			/*background-image: url("/ShoppingCart/images/2.jpg");*/
+			padding: 0;
+			margin: 0;
+			overflow-y:scroll;
+			font-family: sans-serif;
+			font-size: 18px;
+			background-repeat:repeat
+		}
+		#nav{
+			-webkit-box-shadow: 0 10px 6px -6px #777;
+       		-moz-box-shadow: 0 10px 6px -6px #777;
+            box-shadow: 10px 10px 6px -6px #777;
+			background-color:#222;
+			width: 1000px;
+		}
+		#nav_wrapper{
+			width: 960px;
+			margin: 0 auto;
+			text-align: left;
+
+
+		}
+		#nav_wrapper2{
+			width: 1000px;
+			margin: 0 auto;
+			background-color: #222;
+		}
+		#nav ul{
+			list-style-type: none;
+			padding: 0;
+			margin-top:0px;
+			position: relative;
+		}
+		#nav ul li{
+			display: inline-block;
+		}
+		#nav ul li:hover{
+			background-color: #333;
+		}
+		#nav ul li img{
+			vertical-align: middle;
+			
+			width: 18px;
+			height: 17px;
+		}
+		#nav ul li a, visited{
+			color:#ccc;
+			display: block;
+			padding: 15px;
+			text-decoration: none;
+			font-size: 14px;
+		}
+		#nav ul li a:hover{
+			color:white;
+			text-decoration: none;
+		}
+		#nav ul li:hover ul{
+			display: block;
+		}
+		#nav ul ul{
+			display: none;
+			position: absolute;
+			background-color: #333;
+			border: 4px solid #222;
+			border-top: 0;
+			margin-left: -4px;
+			min-width: 115px;
+		}
+		#nav ul ul li{
+			display: block;
+		}
+		img{	
+		
+		}
+		tr#banner{
+			height: 100px;
+			width: 1000px;
+			margin-top: 10px;
+
+		}
+		#nav ul ul li a, visited{
+			color: #ccc;
+		}
+		#nav ul ul li a:hover{
+			color: #099;
+		}
+		tbody#noidung{
+		height: 180px;
+		width: 180px;
+		text-align: center; 
+		font-family: Segoe UI;  font-size: 14px;
+		color: black;
+		background: white;
+		 list-style-type: none;
+		
+		}
+		#footer{
+			width: 1002px;
+			height: 200px;
+			color: white;
+			background-color: #222;
+			 box-shadow: 10px 10px 6px -6px #777;
+			background-color:#222;
+			width: 1000px;
+			list-style-type: none;
+			font-size: 16px;
+			
+		}
+		#quantitytext{
+			margin-top: 10px;
+			margin-right: 120px;
+		}
+		.quantitybox{
+			margin-top: 8px;
+			padding-top: 8px;
+			margin-left: 11px;
+		}
+		
+		.buttonorder{
+			margin-right: 20px;
+			margin-top: 6px;
+		}
+		#dangnhap{
+			margin-top: 20px;
+			background-color: #753354;
+			width: 420px;
+			height: 280px;
+			border: 1px solid #ccc;
+			border-radius: 10px;
+			color: white;
+		}
+		
+		.button{
+			margin-left:77px;
+			width: 100px;
+			height: 25px;
+			border-radius: 2px;
+			color: white;
+			background: orange;
+			margin-top: 20px;
+
+			
+		}
+		.button2{
+			
+			width: 100px;
+			height: 25px;
+			border-radius: 2px;
+			color: white;
+			background: orange;
+			margin-top: -43px;	
+		}
+		.form{
+			margin-right: 77px;
+			margin-top: 10px;
+		}
+		#social{
+			margin-left: 669px;
+			margin-top: -59px;
+		}
+		.logout{
+			margin-bottom: -37px;
+  			margin-left: 96px;
+  			margin-top: -43px;
+		}
+		tbody#footer{
+			background: #222;
+			color: white;
+			font-family: Segoe UI Light;
+			font-size: 15px;
+			
+			list-style-type: none;
+
+		}
+		h2{
+			margin-bottom: -18px;
+			font-family: Segoe UI Light;
+			font-size: 20px;
+			width: 1000px;
+			margin-top: 2px;
+			box-shadow: 10px 10px 6px -6px #777;
+			background-color:#222;
+			width: 1000px;
+		}
+		center{
+			margin-bottom: -165px;
+		}
+		p{	padding-top: 6px;
+			text-align: center;
+			margin-top: 10px;
+			border-radius: 05px;
+			background: orange;
+			width: 300px;
+			height: 25px;
+			margin-bottom: 10px; 
+			font-size: 15px;
+		}
+		
+		.coin-slider { overflow: hidden; zoom: 1; position: relative; margin-top: -5px; }
+		.coin-slider a{ text-decoration: none; outline: none; border: none; }
+
+		.cs-buttons { font-size: 0px; padding: 10px; float: left; }
+		.cs-buttons a { display: none; margin-left: 5px; height: 10px; width: 10px; float: left; border: 1px solid #B8C4CF; color: #B8C4CF; text-indent: -1000px; margin-top: -40px;}
+		.cs-active { background-color: #B8C4CF; color: #FFFFFF; }
+
+		.cs-title { width: 545px; padding: 10px; background-color: #000000; color: #FFFFFF; }
+
+		.cs-prev, 
+		.cs-next { background-color: #000000; color: #FFFFFF; padding: 0px 10px; }
+		

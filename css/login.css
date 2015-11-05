@@ -1,0 +1,16 @@
+ body{
+    background: #C7DFDE;
+}
+table{
+border-radius: 10px;
+background: #2F7977;
+}
+td{background: #A8D4FF;
+font-family: Comic Sans MS; font-size: 14px;
+border-radius: 10px;
+text-align: center;
+}
+button{
+    margin-top: 10px;
+
+}
